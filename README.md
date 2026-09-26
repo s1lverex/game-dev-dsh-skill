@@ -1,4 +1,4 @@
-# blender-godot-web-pipeline
+# game-dev-dsh-skill
 
 A DeepSeek Harness **skill** that captures a complete, proven pipeline:
 
@@ -14,8 +14,8 @@ self-test that prints numeric evidence for every one of those systems.
 ## Install
 
 ```bash
-git clone https://github.com/s1lverex/dsh-skill-blender-godot-web-pipeline.git
-cd dsh-skill-blender-godot-web-pipeline
+git clone https://github.com/s1lverex/game-dev-dsh-skill.git
+cd game-dev-dsh-skill
 ./install.sh          # copies into ~/.agents/skills and ~/.claude/skills
 ```
 

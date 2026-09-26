@@ -1,5 +1,5 @@
 ---
-name: blender-godot-web-pipeline
+name: game-dev-dsh-skill
 description: Ship a playable 3D browser game end to end - procedural Blender assets (worlds, characters, vehicles, enemies), a Godot 4 runtime, Web/WASM export, local or public hosting, and live browser verification with screenshots and streamed fixes.
 ---
 
